@@ -15,5 +15,5 @@ Para rodar o projeto:
 - Abra o projeto no seu VSCode
 - Abra o arquivo 'app.py'
 - Dentro do arquivo, em qualquer lugar, clique com o botão direito do mouse -> Run Python -> Run Python File in Terminal
-- O console irá abrir e mostrará algo como "* Running on http://127.0.0.1:5000"
+- O console irá abrir e mostrará algo como "* Running on http://127.0.0.1:8080"
 - No console, coloque o mouse em cima do link e pressione Ctrl + Clique
