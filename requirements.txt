@@ -59,7 +59,7 @@ pytz==2024.2
 pyzmq==26.2.0
 requests==2.32.3
 rsa==4.9
-scikit-learn==1.5.2
+scikit-learn==0.24.2
 scipy==1.14.1
 six==1.16.0
 stack-data==0.6.3
@@ -74,4 +74,3 @@ urllib3==2.2.3
 wcwidth==0.2.13
 Werkzeug==3.0.6
 whisper==1.1.10
-gunicorn
