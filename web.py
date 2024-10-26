@@ -34,7 +34,7 @@ logging.basicConfig(level=logging.DEBUG)
 API_KEY_OPENWEATHER = 'feb621f31616567d7b527508213b0860'
 
 # Chave da API do Gemini
-GEMINI_API_KEY = 'AIzaSyCXJp2GnIVz6d7oBHeXkYUD99vZkuVYzfA'
+GEMINI_API_KEY = 'AIzaSyAp1Eopp7Y_qWFrusiIIpT9gxaE641CEjE'
 genai.configure(api_key=GEMINI_API_KEY)
 
 
